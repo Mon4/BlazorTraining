@@ -24,7 +24,7 @@ body {
     box-shadow: 0 0.15rem 0.4rem rgba(0, 0, 0, 0.8) !important;
 }
 
-bg-motherboard-dev{
+.bg-motherboard-dev {
     background-image: url("../assets/img/publicbackgrounds/bg-motherboard-dev.jpg");
 }
 
@@ -45,7 +45,7 @@ bg-motherboard-dev{
         margin-top:1rem !important;
         margin-bottom:1rem !important;
     }
-    bg-motherboard-dev {
+    .bg-motherboard-dev {
         background-image: url("../assets/img/publicbackgrounds/bg-motherboard.jpg");
     }
 }
